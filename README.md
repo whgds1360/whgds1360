@@ -29,16 +29,6 @@
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whgds1360&theme=radical&hide_border=true" alt="Streak" />
-</div>
-
-<br>
-
-<br>
-
 ### 🎯 Что дальше (2026–2027)
 
 - Получить первую работу / стажировку как Junior Python Developer
@@ -51,7 +41,7 @@
 <br>
 
 ### 🔥 Мои ключевые проекты
-- **[snake-game](https://github.com/whgds1360/Snake-game)** — 🐍 Современная классическая Змейка на Python (Tkinter). Чистая модульная архитектура, отдельные сцены, менеджер ресурсов, конфиг через Pydantic и сборка в standalone .exe через Nuitka.
+- **[snake-game](https://github.com/whgds1360/Snake-game)** — 🐍 Современная классическая Змейка на Python (Tkinter). Чистая модульная архитектура, логирование, отдельные сцены, менеджер ресурсов, конфиг через Pydantic и сборка в standalone .exe через Nuitka.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/whgds1360/Snake-game/master/screenshots/app_video.gif" alt="Игра Змейка" width="600" height="400">
