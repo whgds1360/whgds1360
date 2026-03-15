@@ -8,7 +8,6 @@
 
 <h3 align="center">начинающий Python-разработчик</h3>
 
-<br>
 
 ### 🧑‍💻 Обо мне
 
@@ -19,7 +18,6 @@
 Сейчас активно учусь самостоятельно: пишу pet-проекты, изучаю лучшие практики, читаю код open-source и готовлюсь к первой работе / стажировке.  
 Цель на ближайшие 3–5 лет — уверенный **Middle → Senior Python Developer**.
 
-<br>
 
 ### 🛠 Технологии, с которыми работаю
 
@@ -27,7 +25,6 @@
   <img src="https://skillicons.dev/icons?i=py,git,github,pycharm" alt="Tech Stack" />
 </div>
 
-<br>
 
 ### 🎯 Что дальше (2026–2027)
 
@@ -38,15 +35,28 @@
 Открыт к общению, менторству и стажировкам!  😄
 Пиши в Telegram / https://t.me/whgds1360 /
 
-<br>
 
 ### 🔥 Мои ключевые проекты
 - **[snake-game](https://github.com/whgds1360/Snake-game)** — 🐍 Современная классическая Змейка на Python (Tkinter). Чистая модульная архитектура, логирование, отдельные сцены, менеджер ресурсов, конфиг через Pydantic и сборка в standalone .exe через Nuitka.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/whgds1360/Snake-game/refs/heads/master/screenshots/app_video.gif" alt="Игра Змейка" width="600" height="400">
+  <img src="https://raw.githubusercontent.com/whgds1360/Snake-game/refs/heads/master/screenshots/app_video.gif" alt="Игра Змейка" width="620" height="480">
 </div>
 
+<br>
+
+<div align="center">
+
+### 🌐 Соцсети
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/13606155) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@whgds1360) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:whgds1360@mail.ru) 
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white)](https://t.me/whgds1360)
+
+### Открыт к общению, менторству и стажировкам! 😄 Пиши в Telegram
+
+</div>
 <br>
 
 <div align="center">
