@@ -45,6 +45,23 @@
 
 <br>
 
+### 📚 Учебный репозиторий по C#
+У меня есть отдельный **учебный репозиторий** — **[practise_on_c#](https://github.com/whgds1360/practise_on_c-)**  
+
+В нём я выполняю лабораторные работы по **Windows Forms** и уже сделал **три полноценных проекта**:
+
+- **Чистый WinForms** — классическое приложение только на стандартных компонентах .NET (без сторонних библиотек)
+- **WinForms + Guna 2 Framework** — современное приложение с красивым UI, анимациями и кастомными контролами
+    <div align="center">
+        <img src="https://github.com/whgds1360/practise_on_c-/blob/main/screenshots/LABA%202-3.png?raw=true" alt="LABA 2-3">
+    </div>  
+- **Калькулятор WinForms + Guna 2** — удобный калькулятор с стильным интерфейсом на Guna UI 2
+    <div align="center">
+        <img src="https://github.com/whgds1360/practise_on_c-/blob/main/screenshots/LABA%204.png?raw=true" alt="LABA 4">
+    </div>
+
+Репозиторий постоянно пополняется новыми лабами (МДК). Открывай `.sln` файлы в Visual Studio и пробуй!
+
 <div align="center">
 
 ### 🌐 Соцсети
