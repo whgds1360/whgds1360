@@ -37,7 +37,7 @@
 
 
 ### 🔥 Мои ключевые проекты
-- **[snake-game](https://github.com/whgds1360/Snake-game)** — 🐍 Современная классическая Змейка на Python (Tkinter). Чистая модульная архитектура, логирование, отдельные сцены, менеджер ресурсов, конфиг через Pydantic и сборка в standalone .exe через Nuitka.
+- **[snake-game](https://github.com/whgds1360/Snake-game)** — 🐍 Современная классическая Змейка на Python (Tkinter). Чистая модульная архитектура, логирование, отдельные сцены, менеджер ресурсов, конфиг через Pydantic и сборка в standalone .exe через Nuitka. + Docker image
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/whgds1360/Snake-game/refs/heads/master/screenshots/app_video.gif" alt="Игра Змейка" width="620" height="480">
