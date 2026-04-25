@@ -48,7 +48,7 @@
 ### 📚 Учебный репозиторий по C#
 У меня есть отдельный **учебный репозиторий** — **[practise_on_c#](https://github.com/whgds1360/practise_on_c-)**  
 
-В нём я выполняю лабораторные работы по **Windows Forms** и уже сделал **три полноценных проекта**:
+В нём я выполняю лабораторные работы по **Windows Forms** и уже сделал **четыре полноценных проекта**:
 
 - **Чистый WinForms** — классическое приложение только на стандартных компонентах .NET (без сторонних библиотек)
 - **WinForms + Guna 2 Framework** — современное приложение с красивым UI, анимациями и кастомными контролами
@@ -59,6 +59,12 @@
     <div align="center">
         <img src="https://github.com/whgds1360/practise_on_c-/blob/main/screenshots/LABA%204.png?raw=true" alt="LABA 4">
     </div>
+- **Приложение погода WinForms + Guna 2 Framework** 
+   Приложение погоды работающий на HttpClient с OpenMeteo api
+   Использован фреймворк **Guna UI 2** (анимации, кастомные кнопки, панели, графики, темы и т.д.).
+   <div align="center">
+    <img src="https://github.com/whgds1360/practise_on_c-/blob/main/screenshots/LABA%205.png?raw=true" alt="LABA 5">
+   </div>
 
 Репозиторий постоянно пополняется новыми лабами (МДК). Открывай `.sln` файлы в Visual Studio и пробуй!
 
