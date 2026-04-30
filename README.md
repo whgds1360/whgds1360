@@ -43,6 +43,7 @@
   <img src="https://raw.githubusercontent.com/whgds1360/Snake-game/refs/heads/master/screenshots/app_video.gif" alt="Игра Змейка" width="620" height="480">
 </div>
 
+- **[vk_to_tg_bot](https://github.com/whgds1360/vk_to_tg_bot)** — 📨 VK to TG Bot — 🚀 Асинхронный бот для пересылки сообщений из ВКонтакте в Telegram. Быстрый старт, легко настраивается. Работает через Long Poll API. Всё просто: создал сообщество, получил токены, указал ID — запустил. 🤖 
 <br>
 
 ### 📚 Учебный репозиторий по C#
