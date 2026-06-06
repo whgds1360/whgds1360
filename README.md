@@ -82,10 +82,10 @@
 
 |                                    |                                                       |
 |:----------------------------------:|:-----------------------------------------------------:|
-|    ![DevOps](assets/DevOps.png)    |              ![Python](assets/Code1.png)              |
-| **DevOps-инженер**<br>Stepik, 2021 |            **Код будущего** <br>МФТИ, 2025            |
-|    ![Python](assets/Code2.png)     |              ![Python](assets/Code3.png)              |
-|   **Код будущего**<br>МФТИ, 2025   |            **Код будущего** <br>МФТИ, 2025            |
+|    ![DevOps](assets/DevOps.png)    |             ![Docker](assets/Docker.jpg)              |
+| **DevOps-инженер**<br>Stepik, 2021 |         **Контейнеризация** <br>Stepik, 2021          |
+|  ![Markdown](assets/Markdown.jpg)  |              ![Python](assets/Code3.png)              |
+|    **Markdown**<br>Stepik, 2022    |            **Код будущего** <br>МФТИ, 2025            |
 |       ![Git](assets/Git.png)       |           ![Sberbank](assets/SberBank.jpg)            |
 |   **Основы Git**<br>Stepik, 2018   | **Цифровой марафон** <br> Школа 21 от сбербанка, 2026 |
 
