@@ -11,29 +11,8 @@
 
 ### 🧑‍💻 Обо мне
 
-Я начинающий Python-разработчик.  
-Путь в IT начался с двух курсов на **Stepik**, где я освоил основы программирования.  
-Потом прошёл курс **«Код будущего»** от МФТИ — он дал мощный старт и уверенность.  
-
-Сейчас активно учусь самостоятельно: пишу pet-проекты, изучаю лучшие практики, читаю код open-source и готовлюсь к первой работе / стажировке.  
-Цель на ближайшие 3–5 лет — уверенный **Middle → Senior Python Developer**.
-
-### 🛠 Технологии, с которыми работаю
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,git,github,pycharm" alt="Tech Stack" />
-</div>
-
-
-### 🎯 Что дальше (2026–2027)
-
-- Получить первую работу / стажировку как Junior Python Developer
-- Сделать 3–5 качественных pet-проектов в портфолио   
-- Дойти до Middle к 19–20 годам  
-
-Открыт к общению, менторству и стажировкам!  😄
-Пиши в Telegram / https://t.me/whgds1360 /
-
+Путь в IT начался с двух курсов на **Stepik**, где я освоил основы программирования.
+Сейчас активно учусь самостоятельно: пишу pet-проекты, изучаю лучшие практики, читаю код open-source и готовлюсь к первой работе / стажировке.
 
 ### 🔥 Мои ключевые проекты
 - **[snake-game](https://github.com/whgds1360/Snake-game)** — 🐍 Современная классическая Змейка на Python (Tkinter). Чистая модульная архитектура, логирование, отдельные сцены, менеджер ресурсов, конфиг через Pydantic и сборка в standalone .exe через Nuitka. + Docker image
@@ -66,13 +45,11 @@
     <img src="https://github.com/whgds1360/practise_on_c-/blob/main/screenshots/LABA%205.png?raw=true" alt="LABA 5">
    </div>
 - **Приложение для авторизации + Guna 2 Framework** 
-   Приложение погоды работающий на драйвере Npgsql и СУБД PostgreSQL
+   Приложение для авторизации работающее на драйвере Npgsql и СУБД PostgreSQL
    Использован фреймворк **Guna UI 2** (анимации, кастомные кнопки, панели, графики, темы и т.д.).
    <div align="center">
     <img src="https://github.com/whgds1360/practise_on_c-/blob/main/screenshots/LABA%206.png?raw=true" alt="LABA 6">
    </div>
-
-Репозиторий постоянно пополняется новыми лабами (МДК). Открывай `.sln` файлы в Visual Studio и пробуй!
 
 <div align="center">
 
@@ -98,7 +75,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:whgds1360@mail.ru) 
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white)](https://t.me/whgds1360)
 
-### Открыт к общению, менторству и стажировкам! 😄 Пиши в Telegram
+### Открыт к общению, менторству и стажировкам! 🌐 Пиши в Telegram
 
 </div>
 <br>
