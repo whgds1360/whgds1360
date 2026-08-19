@@ -21,11 +21,16 @@
   <img src="https://raw.githubusercontent.com/whgds1360/Snake-game/refs/heads/master/screenshots/app_video.gif" alt="Игра Змейка" width="620" height="480">
 </div>
 
-- **[vk_to_tg_bot](https://github.com/whgds1360/vk_to_tg_bot)** — 📨 VK to TG Bot — 🚀 Асинхронный бот для пересылки сообщений из ВКонтакте в Telegram. Быстрый старт, легко настраивается. Работает через Long Poll API. Всё просто: создал сообщество, получил токены, указал ID — запустил. 🤖 
+- **[rec-monitor](https://github.com/whgds1360/rec-monitor)** — 🎮 Rec Monitor — лёгкий оверлей для Windows, который показывает загрузку, температуру и частоту ЦП, ОЗУ и видеокарты поверх игр и приложений в реальном времени. Не нагружает систему, работает в фоновом режиме. Написан на C# / Windows Forms.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/whgds1360/rec-monitor/refs/heads/main/ScreenShots/screenshot.png" alt="rec-monitor">
+</div>
+
+- **[trifusecore-tg-bot](https://github.com/whgds1360/trifusecore-tg-bot)** — ⚙️Telegram-бот с AI, VK-мониторингом, временной почтой и генерацией картинок. Vertical Slice Architecture, Docker-ready. 
 <br>
 
 ### 📚 Учебный репозиторий по C#
-У меня есть отдельный **учебный репозиторий** — **[practise_on_c#](https://github.com/whgds1360/practise_on_c-)**  
+У меня есть отдельный **учебный репозиторий** — **[practise-on-sharp#](https://github.com/whgds1360/practise_on_c-)**  
 
 В нём я выполняю лабораторные работы по **Windows Forms** и уже сделал **четыре полноценных проекта**:
 
