@@ -76,8 +76,7 @@
 ### 🌐 Соцсети
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/13606155) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@whgds1360) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:whgds1360@mail.ru) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:whgds1360@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white)](https://t.me/whgds1360)
 
 ### Открыт к общению, менторству и стажировкам! 🌐 Пиши в Telegram
